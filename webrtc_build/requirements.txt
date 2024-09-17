@@ -1,0 +1,13 @@
+apt-utils
+git
+curl
+wget
+python3
+lsb-release
+sudo
+file
+xz-utils
+ccache
+ca-certificates
+libxml2
+pkg-config
